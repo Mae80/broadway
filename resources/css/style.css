@@ -18,3 +18,23 @@ h1 {
   background-image: url("../../resources/images/the-flatiron-building.png");
   background-size: cover;
 }
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.main p {
+  font-size: 14px;
+}
+
+.new-york {
+  background-image: url("../../resources/images/the-flatiron-building.png");
+  background-size: cover;
+  color: white;
+}
